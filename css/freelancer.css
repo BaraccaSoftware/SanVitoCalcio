@@ -28,11 +28,11 @@
 }
 
 #sanvito-classifica{
-    background-color: rgb(127, 137, 255);
+    background-color: blueviolet;
 }
 
 #first-classifica{
-    background-color: rgb(49, 177, 31);;
+    background-color: rgb(49, 177, 31);
 }
 
 #second-classifica{
@@ -88,7 +88,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\f091";
     display: inline-block;
     position: relative;
     top: -.8em;
