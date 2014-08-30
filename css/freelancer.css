@@ -27,6 +27,21 @@
     background-color: transparent;
 }
 
+#sanvito-classifica{
+    background-color: rgb(127, 137, 255);
+}
+
+#first-classifica{
+    background-color: rgb(49, 177, 31);;
+}
+
+#second-classifica{
+    background-color: blueviolet;
+}
+#third-classifica{
+    background-color: aqua;
+}
+
 body {
     overflow-x: hidden;
 }
